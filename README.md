@@ -2,13 +2,9 @@
 
 hello world!
 
-## How push
+## How commit
 ```bash
 git status
 git add README.md
 git push
-```
-## How pull
-```bash
-git pull
 ```
